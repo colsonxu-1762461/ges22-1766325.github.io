@@ -1,0 +1,32 @@
+h1 {
+	font-family: Arial;
+	clear: right;
+	font-weight: bold;
+
+}
+
+label{	
+	font-family: Mukta;
+	font-size: 20px;
+	color: Grey; 
+}
+
+div {
+	margin: auto;
+	width: 50%;
+}
+
+h2{
+	font-family: Arial;
+	clear: right;
+}
+
+textarea{
+		 border: 3px solid pink;
+		 width: 40%;
+		 height:80px;
+}
+
+body{
+	background-image: url("pink dust.png");
+}
